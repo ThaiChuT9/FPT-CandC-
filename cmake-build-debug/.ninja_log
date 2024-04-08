@@ -1,0 +1,11 @@
+# ninja log v5
+0	72	7342689690483294	build.ninja	e37785e8c900e030
+1	53	7342663315447256	CMakeFiles/FPT_CandC_.dir/Session_3/salary.c.obj	5308062aaa89d6a8
+3	68	7342635851883150	CMakeFiles/FPT_CandC_.dir/Session1/vidu0/sum.c.obj	61fb3a04a6c531dc
+5	52	7342666929612781	CMakeFiles/FPT_CandC_.dir/Session_4/sum3nums.c.obj	f04858dd4dbbe922
+4	56	7342677116597552	CMakeFiles/FPT_CandC_.dir/Session_4/rectangle.c.obj	82cb8c971fa8c896
+6	69	7342635851883150	CMakeFiles/FPT_CandC_.dir/Session1/vidu0/sumy.c.obj	7dceb12e6e2f1abd
+1	48	7342685850087924	CMakeFiles/FPT_CandC_.dir/Session_4/NetSalary.c.obj	dc964582779b0570
+48	107	7342685850646274	FPT_CandC_.exe	24c7598889fa65c6
+1	58	7342677116612216	CMakeFiles/FPT_CandC_.dir/Session_3/Circle.c.obj	6b6f976b0ba41dbc
+1	52	7342684402242818	CMakeFiles/FPT_CandC_.dir/Session_4/Cylinder.c.obj	ccf95bf44b209052

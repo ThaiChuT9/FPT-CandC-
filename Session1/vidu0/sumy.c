@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-//int sumy(){
-int main(){
+int sumy(){
+//int main(){
     int a, b, c, sum;
     printf("Nhap diem Toan: ");
     scanf("%d" , &a);
