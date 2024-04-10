@@ -139,20 +139,20 @@ build CMakeFiles/FPT_CandC_.dir/Session_6/Example2.c.obj: C_COMPILER__FPT_CandC_
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_6
 
-build CMakeFiles/FPT_CandC_.dir/Session_6/printff.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 6/printff.c || cmake_object_order_depends_target_FPT_CandC_
-  DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_6\printff.c.obj.d
+build CMakeFiles/FPT_CandC_.dir/Session_6/(1)printff.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 6/(1)printff.c || cmake_object_order_depends_target_FPT_CandC_
+  DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_6\(1)printff.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_6
 
-build CMakeFiles/FPT_CandC_.dir/Session_6/ASCII.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 6/ASCII.c || cmake_object_order_depends_target_FPT_CandC_
-  DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_6\ASCII.c.obj.d
+build CMakeFiles/FPT_CandC_.dir/Session_6/(2)ASCII.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 6/(2)ASCII.c || cmake_object_order_depends_target_FPT_CandC_
+  DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_6\(2)ASCII.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_6
 
-build CMakeFiles/FPT_CandC_.dir/Session_6/Correct.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 6/Correct.c || cmake_object_order_depends_target_FPT_CandC_
-  DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_6\Correct.c.obj.d
+build CMakeFiles/FPT_CandC_.dir/Session_6/(3)Correct.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 6/(3)Correct.c || cmake_object_order_depends_target_FPT_CandC_
+  DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_6\(3)Correct.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_6
@@ -193,14 +193,14 @@ build CMakeFiles/FPT_CandC_.dir/OnClass/demo6.c.obj: C_COMPILER__FPT_CandC__unsc
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\OnClass
 
-build CMakeFiles/FPT_CandC_.dir/Session_6/exercise4-ss6.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 6/exercise4-ss6.c || cmake_object_order_depends_target_FPT_CandC_
-  DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_6\exercise4-ss6.c.obj.d
+build CMakeFiles/FPT_CandC_.dir/Session_6/(4)exercise4-ss6.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 6/(4)exercise4-ss6.c || cmake_object_order_depends_target_FPT_CandC_
+  DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_6\(4)exercise4-ss6.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_6
 
-build CMakeFiles/FPT_CandC_.dir/Session_6/lastfirst.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 6/lastfirst.c || cmake_object_order_depends_target_FPT_CandC_
-  DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_6\lastfirst.c.obj.d
+build CMakeFiles/FPT_CandC_.dir/Session_6/(5)lastfirst.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 6/(5)lastfirst.c || cmake_object_order_depends_target_FPT_CandC_
+  DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_6\(5)lastfirst.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_6
@@ -253,6 +253,24 @@ build CMakeFiles/FPT_CandC_.dir/Session_7/(5)StudentGrade.c.obj: C_COMPILER__FPT
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_7
 
+build CMakeFiles/FPT_CandC_.dir/Session_8/Part2.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 8/Part2.c || cmake_object_order_depends_target_FPT_CandC_
+  DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_8\Part2.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
+  OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_8
+
+build CMakeFiles/FPT_CandC_.dir/Session_8/(1)var.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 8/(1)var.c || cmake_object_order_depends_target_FPT_CandC_
+  DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_8\(1)var.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
+  OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_8
+
+build CMakeFiles/FPT_CandC_.dir/Session_8/(2)capio.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 8/(2)capio.c || cmake_object_order_depends_target_FPT_CandC_
+  DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_8\(2)capio.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
+  OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_8
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target FPT_CandC_
@@ -261,7 +279,7 @@ build CMakeFiles/FPT_CandC_.dir/Session_7/(5)StudentGrade.c.obj: C_COMPILER__FPT
 #############################################
 # Link the executable FPT_CandC_.exe
 
-build FPT_CandC_.exe: C_EXECUTABLE_LINKER__FPT_CandC__Debug CMakeFiles/FPT_CandC_.dir/Session1/vidu0/sum.c.obj CMakeFiles/FPT_CandC_.dir/Session1/vidu0/sumy.c.obj CMakeFiles/FPT_CandC_.dir/Session_3/(1)Circle.c.obj CMakeFiles/FPT_CandC_.dir/Session_3/(2)salary.c.obj CMakeFiles/FPT_CandC_.dir/Session_4/(1)sum3nums.c.obj CMakeFiles/FPT_CandC_.dir/Session_4/(3)rectangle.c.obj CMakeFiles/FPT_CandC_.dir/Session_4/(4)Cylinder.c.obj CMakeFiles/FPT_CandC_.dir/Session_4/(5)NetSalary.c.obj CMakeFiles/FPT_CandC_.dir/Session_4/(2)expression.c.obj CMakeFiles/FPT_CandC_.dir/Session_5/Precedence.c.obj CMakeFiles/FPT_CandC_.dir/Session_5/(1)FindValue.c.obj CMakeFiles/FPT_CandC_.dir/Session_5/(2)floating.c.obj CMakeFiles/FPT_CandC_.dir/Session_5/(3)iResult.c.obj CMakeFiles/FPT_CandC_.dir/Session_6/Example1.c.obj CMakeFiles/FPT_CandC_.dir/Session_6/Example2.c.obj CMakeFiles/FPT_CandC_.dir/Session_6/printff.c.obj CMakeFiles/FPT_CandC_.dir/Session_6/ASCII.c.obj CMakeFiles/FPT_CandC_.dir/Session_6/Correct.c.obj CMakeFiles/FPT_CandC_.dir/OnClass/demo1.c.obj CMakeFiles/FPT_CandC_.dir/OnClass/demo2.c.obj CMakeFiles/FPT_CandC_.dir/OnClass/demo3.c.obj CMakeFiles/FPT_CandC_.dir/OnClass/demo4.c.obj CMakeFiles/FPT_CandC_.dir/OnClass/demo5.c.obj CMakeFiles/FPT_CandC_.dir/OnClass/demo6.c.obj CMakeFiles/FPT_CandC_.dir/Session_6/exercise4-ss6.c.obj CMakeFiles/FPT_CandC_.dir/Session_6/lastfirst.c.obj CMakeFiles/FPT_CandC_.dir/Session_7/leapyear.c.obj CMakeFiles/FPT_CandC_.dir/Session_7/uppertolower.c.obj CMakeFiles/FPT_CandC_.dir/Session_7/product.c.obj CMakeFiles/FPT_CandC_.dir/Session_7/(1)divisible.c.obj CMakeFiles/FPT_CandC_.dir/Session_7/(2)2product.c.obj CMakeFiles/FPT_CandC_.dir/Session_7/(3)2nums.c.obj CMakeFiles/FPT_CandC_.dir/Session_7/(4)grade.c.obj CMakeFiles/FPT_CandC_.dir/Session_7/(5)StudentGrade.c.obj
+build FPT_CandC_.exe: C_EXECUTABLE_LINKER__FPT_CandC__Debug CMakeFiles/FPT_CandC_.dir/Session1/vidu0/sum.c.obj CMakeFiles/FPT_CandC_.dir/Session1/vidu0/sumy.c.obj CMakeFiles/FPT_CandC_.dir/Session_3/(1)Circle.c.obj CMakeFiles/FPT_CandC_.dir/Session_3/(2)salary.c.obj CMakeFiles/FPT_CandC_.dir/Session_4/(1)sum3nums.c.obj CMakeFiles/FPT_CandC_.dir/Session_4/(3)rectangle.c.obj CMakeFiles/FPT_CandC_.dir/Session_4/(4)Cylinder.c.obj CMakeFiles/FPT_CandC_.dir/Session_4/(5)NetSalary.c.obj CMakeFiles/FPT_CandC_.dir/Session_4/(2)expression.c.obj CMakeFiles/FPT_CandC_.dir/Session_5/Precedence.c.obj CMakeFiles/FPT_CandC_.dir/Session_5/(1)FindValue.c.obj CMakeFiles/FPT_CandC_.dir/Session_5/(2)floating.c.obj CMakeFiles/FPT_CandC_.dir/Session_5/(3)iResult.c.obj CMakeFiles/FPT_CandC_.dir/Session_6/Example1.c.obj CMakeFiles/FPT_CandC_.dir/Session_6/Example2.c.obj CMakeFiles/FPT_CandC_.dir/Session_6/(1)printff.c.obj CMakeFiles/FPT_CandC_.dir/Session_6/(2)ASCII.c.obj CMakeFiles/FPT_CandC_.dir/Session_6/(3)Correct.c.obj CMakeFiles/FPT_CandC_.dir/OnClass/demo1.c.obj CMakeFiles/FPT_CandC_.dir/OnClass/demo2.c.obj CMakeFiles/FPT_CandC_.dir/OnClass/demo3.c.obj CMakeFiles/FPT_CandC_.dir/OnClass/demo4.c.obj CMakeFiles/FPT_CandC_.dir/OnClass/demo5.c.obj CMakeFiles/FPT_CandC_.dir/OnClass/demo6.c.obj CMakeFiles/FPT_CandC_.dir/Session_6/(4)exercise4-ss6.c.obj CMakeFiles/FPT_CandC_.dir/Session_6/(5)lastfirst.c.obj CMakeFiles/FPT_CandC_.dir/Session_7/leapyear.c.obj CMakeFiles/FPT_CandC_.dir/Session_7/uppertolower.c.obj CMakeFiles/FPT_CandC_.dir/Session_7/product.c.obj CMakeFiles/FPT_CandC_.dir/Session_7/(1)divisible.c.obj CMakeFiles/FPT_CandC_.dir/Session_7/(2)2product.c.obj CMakeFiles/FPT_CandC_.dir/Session_7/(3)2nums.c.obj CMakeFiles/FPT_CandC_.dir/Session_7/(4)grade.c.obj CMakeFiles/FPT_CandC_.dir/Session_7/(5)StudentGrade.c.obj CMakeFiles/FPT_CandC_.dir/Session_8/Part2.c.obj CMakeFiles/FPT_CandC_.dir/Session_8/(1)var.c.obj CMakeFiles/FPT_CandC_.dir/Session_8/(2)capio.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir

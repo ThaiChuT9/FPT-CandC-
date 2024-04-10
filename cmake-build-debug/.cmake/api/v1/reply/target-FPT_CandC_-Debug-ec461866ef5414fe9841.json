@@ -85,7 +85,10 @@
 				30,
 				31,
 				32,
-				33
+				33,
+				34,
+				35,
+				36
 			]
 		}
 	],
@@ -155,7 +158,10 @@
 				30,
 				31,
 				32,
-				33
+				33,
+				34,
+				35,
+				36
 			]
 		}
 	],
@@ -254,19 +260,19 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Session 6/printff.c",
+			"path" : "Session 6/(1)printff.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Session 6/ASCII.c",
+			"path" : "Session 6/(2)ASCII.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Session 6/Correct.c",
+			"path" : "Session 6/(3)Correct.c",
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -308,13 +314,13 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Session 6/exercise4-ss6.c",
+			"path" : "Session 6/(4)exercise4-ss6.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Session 6/lastfirst.c",
+			"path" : "Session 6/(5)lastfirst.c",
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -363,6 +369,24 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "Session 7/(5)StudentGrade.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Session 8/Part2.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Session 8/(1)var.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Session 8/(2)capio.c",
 			"sourceGroupIndex" : 0
 		}
 	],

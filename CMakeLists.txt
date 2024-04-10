@@ -37,4 +37,7 @@ add_executable(FPT_CandC_
         "Session 7/(2)2product.c"
         "Session 7/(3)2nums.c"
         "Session 7/(4)grade.c"
-        "Session 7/(5)StudentGrade.c")
+        "Session 7/(5)StudentGrade.c"
+        "Session 8/Part2.c"
+        "Session 8/(1)var.c"
+        "Session 8/(2)capio.c")
