@@ -19,4 +19,9 @@ add_executable(FPT_CandC_
         "Session 5/iResult.c"
         "Session 6/Example1.c"
         "Session 6/Example2.c"
-        "Session 6/printff.c")
+        "Session 6/printff.c"
+        "Session 6/ASCII.c"
+        "Session 6/Correct.c"
+        OnClass/demo1.c
+        OnClass/demo2.c
+        OnClass/demo3.c)

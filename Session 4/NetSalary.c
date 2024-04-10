@@ -23,6 +23,6 @@ int Net_main(){
         others = 450;
         pf = basic_salary * 14 / 100;
         it = basic_salary * 15 / 100;
-        net_salary = basic_salary + da + hra + ta + others - pf - it;
+        net_salary = basic_salary + da + hra + ta + others - (pf + it);
         printf("Net salary of this employee: $%d", net_salary);
 }

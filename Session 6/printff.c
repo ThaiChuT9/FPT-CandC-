@@ -11,8 +11,8 @@
 // b. To read a float variable discount_rate.
 
 #include <stdio.h>
-
-void main(){
+void gg_main(){
+//void main(){
     int sum = 1000;
     float a=1.33, b= 2.12;
     char letter = 'A';
