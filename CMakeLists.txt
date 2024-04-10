@@ -24,4 +24,7 @@ add_executable(FPT_CandC_
         "Session 6/Correct.c"
         OnClass/demo1.c
         OnClass/demo2.c
-        OnClass/demo3.c)
+        OnClass/demo3.c
+        OnClass/demo4.c
+        OnClass/demo5.c
+        OnClass/demo6.c)

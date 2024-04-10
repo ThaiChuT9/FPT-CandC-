@@ -2,8 +2,8 @@
 // Created by THAICHU on 4/10/2024.
 //
 #include <stdio.h>
-//int cc(){
-int main(){
+int cc(){
+//int main(){
 //    Nhập tên người dùng
     char name[100];
     printf("Nhập tên của bạn: ");
