@@ -11,8 +11,8 @@
 //      Net salary: Basic salary + DA + HRA + TA + Others – PF – IT
 
 #include <stdio.h>
-//int Net_main(){
-    int main(){
+int Net_main(){
+//    int main(){
         int basic_salary, da, hra, ta, others, pf, it, net_salary;
 //        printf("Enter basic salary: ");
 //        scanf("%d", &basic_salary);

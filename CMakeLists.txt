@@ -12,4 +12,11 @@ add_executable(FPT_CandC_
         "Session 4/rectangle.c"
         "Session 4/Cylinder.c"
         "Session 4/NetSalary.c"
-        "Session 4/expression.c")
+        "Session 4/expression.c"
+        "Session 5/Precedence.c"
+        "Session 5/FindValue.c"
+        "Session 5/floating.c"
+        "Session 5/iResult.c"
+        "Session 6/Example1.c"
+        "Session 6/Example2.c"
+        "Session 6/printff.c")
