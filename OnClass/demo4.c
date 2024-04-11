@@ -3,7 +3,7 @@
 //
 #include <stdio.h>
 #include <math.h>
-int mama(){
+int mamami(){
 //int main(){
     float r,c,s;
     printf("nhap ban kinh hinh tron r= ");

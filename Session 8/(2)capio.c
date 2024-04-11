@@ -14,7 +14,8 @@
 
 #include <stdio.h>
 #include <ctype.h>
-int main(){
+int letty(){
+//int main(){
     char letter;
     printf("Enter a letter: ");
     scanf("%c", &letter);

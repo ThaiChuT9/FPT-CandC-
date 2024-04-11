@@ -40,4 +40,15 @@ add_executable(FPT_CandC_
         "Session 7/(5)StudentGrade.c"
         "Session 8/Part2.c"
         "Session 8/(1)var.c"
-        "Session 8/(2)capio.c")
+        "Session 8/(2)capio.c"
+        "Session 8/(3)values.c"
+        "Session 9/(1)series.c"
+        "Session 9/(2)accnum.c"
+        "Session 9/(3)Fibonacci.c"
+        "Session 9/(4)patterns.c"
+        "Session 9/(5)stars.c"
+        "Session 10/example1.c"
+        "Session 10/PartII.c"
+        "Session 10/(1)declare.c"
+        "Session 10/(2)morepatenrt.c"
+        "Session 10/(3)multiplicationtable.c")
