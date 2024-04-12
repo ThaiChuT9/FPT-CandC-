@@ -3,7 +3,8 @@
 // Write a program to print a multiplication table for a given number.
 
 #include <stdio.h>
-int main(){
+int table(){
+//int main(){
     int n;
     printf("Enter a number: ");
     scanf("%d", &n);

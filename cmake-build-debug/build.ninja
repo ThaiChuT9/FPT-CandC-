@@ -54,384 +54,342 @@ build CMakeFiles/FPT_CandC_.dir/Session1/vidu0/sum.c.obj: C_COMPILER__FPT_CandC_
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session1\vidu0
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session1/vidu0/sumy.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session1/vidu0/sumy.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session1\vidu0\sumy.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session1\vidu0
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session_3/(1)Circle.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 3/(1)Circle.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_3\(1)Circle.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_3
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session_3/(2)salary.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 3/(2)salary.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_3\(2)salary.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_3
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session_4/(1)sum3nums.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 4/(1)sum3nums.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_4\(1)sum3nums.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_4
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session_4/(3)rectangle.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 4/(3)rectangle.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_4\(3)rectangle.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_4
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session_4/(4)Cylinder.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 4/(4)Cylinder.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_4\(4)Cylinder.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_4
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session_4/(5)NetSalary.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 4/(5)NetSalary.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_4\(5)NetSalary.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_4
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session_4/(2)expression.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 4/(2)expression.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_4\(2)expression.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_4
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session_5/Precedence.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 5/Precedence.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_5\Precedence.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_5
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session_5/(1)FindValue.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 5/(1)FindValue.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_5\(1)FindValue.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_5
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session_5/(2)floating.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 5/(2)floating.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_5\(2)floating.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_5
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session_5/(3)iResult.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 5/(3)iResult.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_5\(3)iResult.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_5
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session_6/Example1.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 6/Example1.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_6\Example1.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_6
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session_6/Example2.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 6/Example2.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_6\Example2.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_6
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session_6/(1)printff.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 6/(1)printff.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_6\(1)printff.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_6
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session_6/(2)ASCII.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 6/(2)ASCII.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_6\(2)ASCII.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_6
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session_6/(3)Correct.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 6/(3)Correct.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_6\(3)Correct.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_6
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/OnClass/demo1.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/OnClass/demo1.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\OnClass\demo1.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\OnClass
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/OnClass/demo2.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/OnClass/demo2.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\OnClass\demo2.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\OnClass
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/OnClass/demo3.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/OnClass/demo3.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\OnClass\demo3.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\OnClass
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/OnClass/demo4.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/OnClass/demo4.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\OnClass\demo4.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\OnClass
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/OnClass/demo5.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/OnClass/demo5.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\OnClass\demo5.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\OnClass
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/OnClass/demo6.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/OnClass/demo6.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\OnClass\demo6.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\OnClass
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session_6/(4)exercise4-ss6.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 6/(4)exercise4-ss6.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_6\(4)exercise4-ss6.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_6
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session_6/(5)lastfirst.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 6/(5)lastfirst.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_6\(5)lastfirst.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_6
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session_7/leapyear.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 7/leapyear.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_7\leapyear.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_7
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session_7/uppertolower.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 7/uppertolower.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_7\uppertolower.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_7
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session_7/product.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 7/product.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_7\product.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_7
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session_7/(1)divisible.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 7/(1)divisible.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_7\(1)divisible.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_7
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session_7/(2)2product.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 7/(2)2product.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_7\(2)2product.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_7
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session_7/(3)2nums.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 7/(3)2nums.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_7\(3)2nums.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_7
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session_7/(4)grade.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 7/(4)grade.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_7\(4)grade.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_7
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session_7/(5)StudentGrade.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 7/(5)StudentGrade.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_7\(5)StudentGrade.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_7
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session_8/Part2.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 8/Part2.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_8\Part2.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_8
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session_8/(1)var.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 8/(1)var.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_8\(1)var.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_8
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session_8/(2)capio.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 8/(2)capio.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_8\(2)capio.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_8
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session_8/(3)values.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 8/(3)values.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_8\(3)values.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_8
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session_9/(1)series.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 9/(1)series.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_9\(1)series.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_9
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session_9/(2)accnum.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 9/(2)accnum.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_9\(2)accnum.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_9
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session_9/(3)Fibonacci.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 9/(3)Fibonacci.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_9\(3)Fibonacci.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_9
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session_9/(4)patterns.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 9/(4)patterns.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_9\(4)patterns.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_9
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session_9/(5)stars.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 9/(5)stars.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_9\(5)stars.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_9
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session_10/example1.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 10/example1.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_10\example1.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_10
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session_10/PartII.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 10/PartII.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_10\PartII.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_10
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session_10/(1)declare.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 10/(1)declare.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_10\(1)declare.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_10
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session_10/(2)morepatenrt.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 10/(2)morepatenrt.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_10\(2)morepatenrt.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_10
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
 
 build CMakeFiles/FPT_CandC_.dir/Session_10/(3)multiplicationtable.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 10/(3)multiplicationtable.c || cmake_object_order_depends_target_FPT_CandC_
   DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_10\(3)multiplicationtable.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_10
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
-  TARGET_PDB = FPT_CandC_.pdb
+
+build CMakeFiles/FPT_CandC_.dir/Session_11/chary.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 11/chary.c || cmake_object_order_depends_target_FPT_CandC_
+  DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_11\chary.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
+  OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_11
+
+build CMakeFiles/FPT_CandC_.dir/Session_11/example4.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 11/example4.c || cmake_object_order_depends_target_FPT_CandC_
+  DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_11\example4.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
+  OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_11
+
+build CMakeFiles/FPT_CandC_.dir/Session_11/example6.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 11/example6.c || cmake_object_order_depends_target_FPT_CandC_
+  DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_11\example6.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
+  OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_11
+
+build CMakeFiles/FPT_CandC_.dir/Session_11/(1)namearr.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 11/(1)namearr.c || cmake_object_order_depends_target_FPT_CandC_
+  DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_11\(1)namearr.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
+  OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_11
+
+build CMakeFiles/FPT_CandC_.dir/Session_11/(2)vowles.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 11/(2)vowles.c || cmake_object_order_depends_target_FPT_CandC_
+  DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_11\(2)vowles.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
+  OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_11
+
+build CMakeFiles/FPT_CandC_.dir/Session_11/(3)arrreverse.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/Session$ 11/(3)arrreverse.c || cmake_object_order_depends_target_FPT_CandC_
+  DEP_FILE = CMakeFiles\FPT_CandC_.dir\Session_11\(3)arrreverse.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
+  OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\Session_11
+
+build CMakeFiles/FPT_CandC_.dir/OnClass/demo7_1.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/OnClass/demo7_1.c || cmake_object_order_depends_target_FPT_CandC_
+  DEP_FILE = CMakeFiles\FPT_CandC_.dir\OnClass\demo7_1.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
+  OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\OnClass
+
+build CMakeFiles/FPT_CandC_.dir/OnClass/demo7_2.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/OnClass/demo7_2.c || cmake_object_order_depends_target_FPT_CandC_
+  DEP_FILE = CMakeFiles\FPT_CandC_.dir\OnClass\demo7_2.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
+  OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\OnClass
+
+build CMakeFiles/FPT_CandC_.dir/OnClass/demo7_3.c.obj: C_COMPILER__FPT_CandC__unscanned_Debug D$:/THAIPROJECT/Study/FPT-CandC-/OnClass/demo7_3.c || cmake_object_order_depends_target_FPT_CandC_
+  DEP_FILE = CMakeFiles\FPT_CandC_.dir\OnClass\demo7_3.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
+  OBJECT_FILE_DIR = CMakeFiles\FPT_CandC_.dir\OnClass
 
 
 # =============================================================================
@@ -441,16 +399,15 @@ build CMakeFiles/FPT_CandC_.dir/Session_10/(3)multiplicationtable.c.obj: C_COMPI
 #############################################
 # Link the executable FPT_CandC_.exe
 
-build FPT_CandC_.exe: C_EXECUTABLE_LINKER__FPT_CandC__Debug CMakeFiles/FPT_CandC_.dir/Session1/vidu0/sum.c.obj CMakeFiles/FPT_CandC_.dir/Session1/vidu0/sumy.c.obj CMakeFiles/FPT_CandC_.dir/Session_3/(1)Circle.c.obj CMakeFiles/FPT_CandC_.dir/Session_3/(2)salary.c.obj CMakeFiles/FPT_CandC_.dir/Session_4/(1)sum3nums.c.obj CMakeFiles/FPT_CandC_.dir/Session_4/(3)rectangle.c.obj CMakeFiles/FPT_CandC_.dir/Session_4/(4)Cylinder.c.obj CMakeFiles/FPT_CandC_.dir/Session_4/(5)NetSalary.c.obj CMakeFiles/FPT_CandC_.dir/Session_4/(2)expression.c.obj CMakeFiles/FPT_CandC_.dir/Session_5/Precedence.c.obj CMakeFiles/FPT_CandC_.dir/Session_5/(1)FindValue.c.obj CMakeFiles/FPT_CandC_.dir/Session_5/(2)floating.c.obj CMakeFiles/FPT_CandC_.dir/Session_5/(3)iResult.c.obj CMakeFiles/FPT_CandC_.dir/Session_6/Example1.c.obj CMakeFiles/FPT_CandC_.dir/Session_6/Example2.c.obj CMakeFiles/FPT_CandC_.dir/Session_6/(1)printff.c.obj CMakeFiles/FPT_CandC_.dir/Session_6/(2)ASCII.c.obj CMakeFiles/FPT_CandC_.dir/Session_6/(3)Correct.c.obj CMakeFiles/FPT_CandC_.dir/OnClass/demo1.c.obj CMakeFiles/FPT_CandC_.dir/OnClass/demo2.c.obj CMakeFiles/FPT_CandC_.dir/OnClass/demo3.c.obj CMakeFiles/FPT_CandC_.dir/OnClass/demo4.c.obj CMakeFiles/FPT_CandC_.dir/OnClass/demo5.c.obj CMakeFiles/FPT_CandC_.dir/OnClass/demo6.c.obj CMakeFiles/FPT_CandC_.dir/Session_6/(4)exercise4-ss6.c.obj CMakeFiles/FPT_CandC_.dir/Session_6/(5)lastfirst.c.obj CMakeFiles/FPT_CandC_.dir/Session_7/leapyear.c.obj CMakeFiles/FPT_CandC_.dir/Session_7/uppertolower.c.obj CMakeFiles/FPT_CandC_.dir/Session_7/product.c.obj CMakeFiles/FPT_CandC_.dir/Session_7/(1)divisible.c.obj CMakeFiles/FPT_CandC_.dir/Session_7/(2)2product.c.obj CMakeFiles/FPT_CandC_.dir/Session_7/(3)2nums.c.obj CMakeFiles/FPT_CandC_.dir/Session_7/(4)grade.c.obj CMakeFiles/FPT_CandC_.dir/Session_7/(5)StudentGrade.c.obj CMakeFiles/FPT_CandC_.dir/Session_8/Part2.c.obj CMakeFiles/FPT_CandC_.dir/Session_8/(1)var.c.obj CMakeFiles/FPT_CandC_.dir/Session_8/(2)capio.c.obj CMakeFiles/FPT_CandC_.dir/Session_8/(3)values.c.obj CMakeFiles/FPT_CandC_.dir/Session_9/(1)series.c.obj CMakeFiles/FPT_CandC_.dir/Session_9/(2)accnum.c.obj CMakeFiles/FPT_CandC_.dir/Session_9/(3)Fibonacci.c.obj CMakeFiles/FPT_CandC_.dir/Session_9/(4)patterns.c.obj CMakeFiles/FPT_CandC_.dir/Session_9/(5)stars.c.obj CMakeFiles/FPT_CandC_.dir/Session_10/example1.c.obj CMakeFiles/FPT_CandC_.dir/Session_10/PartII.c.obj CMakeFiles/FPT_CandC_.dir/Session_10/(1)declare.c.obj CMakeFiles/FPT_CandC_.dir/Session_10/(2)morepatenrt.c.obj CMakeFiles/FPT_CandC_.dir/Session_10/(3)multiplicationtable.c.obj
+build FPT_CandC_.exe: C_EXECUTABLE_LINKER__FPT_CandC__Debug CMakeFiles/FPT_CandC_.dir/Session1/vidu0/sum.c.obj CMakeFiles/FPT_CandC_.dir/Session1/vidu0/sumy.c.obj CMakeFiles/FPT_CandC_.dir/Session_3/(1)Circle.c.obj CMakeFiles/FPT_CandC_.dir/Session_3/(2)salary.c.obj CMakeFiles/FPT_CandC_.dir/Session_4/(1)sum3nums.c.obj CMakeFiles/FPT_CandC_.dir/Session_4/(3)rectangle.c.obj CMakeFiles/FPT_CandC_.dir/Session_4/(4)Cylinder.c.obj CMakeFiles/FPT_CandC_.dir/Session_4/(5)NetSalary.c.obj CMakeFiles/FPT_CandC_.dir/Session_4/(2)expression.c.obj CMakeFiles/FPT_CandC_.dir/Session_5/Precedence.c.obj CMakeFiles/FPT_CandC_.dir/Session_5/(1)FindValue.c.obj CMakeFiles/FPT_CandC_.dir/Session_5/(2)floating.c.obj CMakeFiles/FPT_CandC_.dir/Session_5/(3)iResult.c.obj CMakeFiles/FPT_CandC_.dir/Session_6/Example1.c.obj CMakeFiles/FPT_CandC_.dir/Session_6/Example2.c.obj CMakeFiles/FPT_CandC_.dir/Session_6/(1)printff.c.obj CMakeFiles/FPT_CandC_.dir/Session_6/(2)ASCII.c.obj CMakeFiles/FPT_CandC_.dir/Session_6/(3)Correct.c.obj CMakeFiles/FPT_CandC_.dir/OnClass/demo1.c.obj CMakeFiles/FPT_CandC_.dir/OnClass/demo2.c.obj CMakeFiles/FPT_CandC_.dir/OnClass/demo3.c.obj CMakeFiles/FPT_CandC_.dir/OnClass/demo4.c.obj CMakeFiles/FPT_CandC_.dir/OnClass/demo5.c.obj CMakeFiles/FPT_CandC_.dir/OnClass/demo6.c.obj CMakeFiles/FPT_CandC_.dir/Session_6/(4)exercise4-ss6.c.obj CMakeFiles/FPT_CandC_.dir/Session_6/(5)lastfirst.c.obj CMakeFiles/FPT_CandC_.dir/Session_7/leapyear.c.obj CMakeFiles/FPT_CandC_.dir/Session_7/uppertolower.c.obj CMakeFiles/FPT_CandC_.dir/Session_7/product.c.obj CMakeFiles/FPT_CandC_.dir/Session_7/(1)divisible.c.obj CMakeFiles/FPT_CandC_.dir/Session_7/(2)2product.c.obj CMakeFiles/FPT_CandC_.dir/Session_7/(3)2nums.c.obj CMakeFiles/FPT_CandC_.dir/Session_7/(4)grade.c.obj CMakeFiles/FPT_CandC_.dir/Session_7/(5)StudentGrade.c.obj CMakeFiles/FPT_CandC_.dir/Session_8/Part2.c.obj CMakeFiles/FPT_CandC_.dir/Session_8/(1)var.c.obj CMakeFiles/FPT_CandC_.dir/Session_8/(2)capio.c.obj CMakeFiles/FPT_CandC_.dir/Session_8/(3)values.c.obj CMakeFiles/FPT_CandC_.dir/Session_9/(1)series.c.obj CMakeFiles/FPT_CandC_.dir/Session_9/(2)accnum.c.obj CMakeFiles/FPT_CandC_.dir/Session_9/(3)Fibonacci.c.obj CMakeFiles/FPT_CandC_.dir/Session_9/(4)patterns.c.obj CMakeFiles/FPT_CandC_.dir/Session_9/(5)stars.c.obj CMakeFiles/FPT_CandC_.dir/Session_10/example1.c.obj CMakeFiles/FPT_CandC_.dir/Session_10/PartII.c.obj CMakeFiles/FPT_CandC_.dir/Session_10/(1)declare.c.obj CMakeFiles/FPT_CandC_.dir/Session_10/(2)morepatenrt.c.obj CMakeFiles/FPT_CandC_.dir/Session_10/(3)multiplicationtable.c.obj CMakeFiles/FPT_CandC_.dir/Session_11/chary.c.obj CMakeFiles/FPT_CandC_.dir/Session_11/example4.c.obj CMakeFiles/FPT_CandC_.dir/Session_11/example6.c.obj CMakeFiles/FPT_CandC_.dir/Session_11/(1)namearr.c.obj CMakeFiles/FPT_CandC_.dir/Session_11/(2)vowles.c.obj CMakeFiles/FPT_CandC_.dir/Session_11/(3)arrreverse.c.obj CMakeFiles/FPT_CandC_.dir/OnClass/demo7_1.c.obj CMakeFiles/FPT_CandC_.dir/OnClass/demo7_2.c.obj CMakeFiles/FPT_CandC_.dir/OnClass/demo7_3.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\FPT_CandC_.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\FPT_CandC_.dir\
   TARGET_FILE = FPT_CandC_.exe
   TARGET_IMPLIB = libFPT_CandC_.dll.a
-  TARGET_PDB = FPT_CandC_.pdb
+  TARGET_PDB = FPT_CandC_.exe.dbg
 
 
 #############################################
@@ -497,14 +454,14 @@ build all: phony FPT_CandC_.exe
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCCompilerABI.c C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCompilerIdDetection.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompileFeatures.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineRCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeFindBinUtils.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeParseLibraryArchitecture.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeRCCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystem.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestCompilerCommon.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestRCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/CrayClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/LCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/OrangeC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Tasking-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/FeatureTesting.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-Initialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/3.28.1/CMakeCCompiler.cmake CMakeFiles/3.28.1/CMakeRCCompiler.cmake CMakeFiles/3.28.1/CMakeSystem.cmake D$:/THAIPROJECT/Study/FPT-CandC-/CMakeLists.txt
+build build.ninja: RERUN_CMAKE | C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-Initialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/3.28.1/CMakeCCompiler.cmake CMakeFiles/3.28.1/CMakeRCCompiler.cmake CMakeFiles/3.28.1/CMakeSystem.cmake D$:/THAIPROJECT/Study/FPT-CandC-/CMakeLists.txt
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCCompilerABI.c C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCompilerIdDetection.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompileFeatures.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineRCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeFindBinUtils.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeParseLibraryArchitecture.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeRCCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystem.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestCompilerCommon.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestRCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/CrayClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/LCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/OrangeC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Tasking-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/FeatureTesting.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-Initialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/3.28.1/CMakeCCompiler.cmake CMakeFiles/3.28.1/CMakeRCCompiler.cmake CMakeFiles/3.28.1/CMakeSystem.cmake D$:/THAIPROJECT/Study/FPT-CandC-/CMakeLists.txt: phony
+build C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-Initialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/3.28.1/CMakeCCompiler.cmake CMakeFiles/3.28.1/CMakeRCCompiler.cmake CMakeFiles/3.28.1/CMakeSystem.cmake D$:/THAIPROJECT/Study/FPT-CandC-/CMakeLists.txt: phony
 
 
 #############################################

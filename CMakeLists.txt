@@ -51,4 +51,13 @@ add_executable(FPT_CandC_
         "Session 10/PartII.c"
         "Session 10/(1)declare.c"
         "Session 10/(2)morepatenrt.c"
-        "Session 10/(3)multiplicationtable.c")
+        "Session 10/(3)multiplicationtable.c"
+        "Session 11/chary.c"
+        "Session 11/example4.c"
+        "Session 11/example6.c"
+        "Session 11/(1)namearr.c"
+        "Session 11/(2)vowles.c"
+        "Session 11/(3)arrreverse.c"
+        OnClass/demo7_1.c
+        OnClass/demo7_2.c
+        OnClass/demo7_3.c)
