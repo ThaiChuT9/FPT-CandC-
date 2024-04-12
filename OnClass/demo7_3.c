@@ -2,7 +2,8 @@
 // Created by THAICHU on 4/12/2024.
 //
 #include <stdio.h>
-int main() {
+int bmi(){
+//int main() {
     float weight, height;
     printf("Nhap can nang(kg): ");
     scanf("%f", &weight);

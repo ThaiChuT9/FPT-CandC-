@@ -3,13 +3,19 @@
 // Write a program that accepts numbers in an array and reverses the array
 
 #include <stdio.h>
-int reverr(){
+#include <string.h>
+int part122(){
 //int main(){
-    int arr[]={34,45,56,67,89};
-    int n= sizeof(arr)/sizeof(arr[0]);
-
+    int arr[10];
+    int n=0;
+    printf("Enter the number of elements in the array: ");
+    scanf("%d", &n);
+    for (int i = 0; i < n; ++i) {
+        printf("Enter element %d: ", i + 1);
+        scanf("%2d", &arr[i]);
+    }
     printf("\nThe original array is: ");
-    for(int i=0;i<n;i++){
+    for (int i=0;i<n;i++){
         printf("%d ", arr[i]);
     }
     printf("\nThe reversed array is: ");

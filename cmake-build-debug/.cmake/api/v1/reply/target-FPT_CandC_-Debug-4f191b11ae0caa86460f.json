@@ -108,7 +108,11 @@
 				53,
 				54,
 				55,
-				56
+				56,
+				57,
+				58,
+				59,
+				60
 			]
 		}
 	],
@@ -201,7 +205,11 @@
 				53,
 				54,
 				55,
-				56
+				56,
+				57,
+				58,
+				59,
+				60
 			]
 		}
 	],
@@ -547,6 +555,30 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "OnClass/demo7_3.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Session 12/summatrix.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Session 12/Part2_12.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Session 12/(1)maxminarr.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Session 12/(2)consonants.c",
 			"sourceGroupIndex" : 0
 		}
 	],

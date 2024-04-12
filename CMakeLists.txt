@@ -60,4 +60,8 @@ add_executable(FPT_CandC_
         "Session 11/(3)arrreverse.c"
         OnClass/demo7_1.c
         OnClass/demo7_2.c
-        OnClass/demo7_3.c)
+        OnClass/demo7_3.c
+        "Session 12/summatrix.c"
+        "Session 12/Part2_12.c"
+        "Session 12/(1)maxminarr.c"
+        "Session 12/(2)consonants.c")
