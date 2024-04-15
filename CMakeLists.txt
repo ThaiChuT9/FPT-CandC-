@@ -64,4 +64,5 @@ add_executable(FPT_CandC_
         "Session 12/summatrix.c"
         "Session 12/Part2_12.c"
         "Session 12/(1)maxminarr.c"
-        "Session 12/(2)consonants.c")
+        "Session 12/(2)consonants.c"
+        OnClass/drink.c)
