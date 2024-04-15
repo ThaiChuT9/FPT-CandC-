@@ -65,4 +65,15 @@ add_executable(FPT_CandC_
         "Session 12/Part2_12.c"
         "Session 12/(1)maxminarr.c"
         "Session 12/(2)consonants.c"
-        OnClass/drink.c)
+        OnClass/drink.c
+        OnClass/Prac/bai1.c
+        OnClass/Prac/bai2.c
+        OnClass/Prac/bai3.c
+        OnClass/Prac/bai4.c
+        "OnClass/Prac/bai 5.c"
+        OnClass/Prac/bai6.c
+        OnClass/Prac/bai7.c
+        OnClass/Prac/bai8.c
+        OnClass/Prac/bai9.c
+        OnClass/Prac/bai10.c
+        OnClass/Prac/bai11.c)

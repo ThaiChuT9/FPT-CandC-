@@ -2,8 +2,8 @@
 // Created by THAICHU on 4/15/2024.
 //
 #include <stdio.h>
-//int drink(){
-int main(){
+int drink(){
+//int main(){
     char drinkname[100];
     int amount;
     float drinkprice;
