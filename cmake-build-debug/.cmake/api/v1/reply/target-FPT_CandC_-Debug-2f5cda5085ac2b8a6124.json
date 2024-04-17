@@ -132,7 +132,11 @@
 				77,
 				78,
 				79,
-				80
+				80,
+				81,
+				82,
+				83,
+				84
 			]
 		}
 	],
@@ -249,7 +253,11 @@
 				77,
 				78,
 				79,
-				80
+				80,
+				81,
+				82,
+				83,
+				84
 			]
 		}
 	],
@@ -366,37 +374,37 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "OnClass/demo1.c",
+			"path" : "OnClass/demo/demo1.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "OnClass/demo2.c",
+			"path" : "OnClass/demo/demo2.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "OnClass/demo3.c",
+			"path" : "OnClass/demo/demo3.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "OnClass/demo4.c",
+			"path" : "OnClass/demo/demo4.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "OnClass/demo5.c",
+			"path" : "OnClass/demo/demo5.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "OnClass/demo6.c",
+			"path" : "OnClass/demo/demo6.c",
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -582,19 +590,19 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "OnClass/demo7_1.c",
+			"path" : "OnClass/demo/demo7_1.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "OnClass/demo7_2.c",
+			"path" : "OnClass/demo/demo7_2.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "OnClass/demo7_3.c",
+			"path" : "OnClass/demo/demo7_3.c",
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -739,6 +747,30 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "OnClass/ppt/ppt7.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "OnClass/Prac2/balance.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "OnClass/Prac2/coffee.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "OnClass/Prac2/guess.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "OnClass/Prac2/tbc.c",
 			"sourceGroupIndex" : 0
 		}
 	],

@@ -2,7 +2,7 @@
 // Created by THAICHU on 4/17/2024.
 //
 #include <stdio.h>
-void ppt6(){
+void ppt7(){
 //void main(){
     int num;
     for (num=1;num<=100;num++){

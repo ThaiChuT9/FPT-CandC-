@@ -22,12 +22,12 @@ add_executable(FPT_CandC_
         "Session 6/(1)printff.c"
         "Session 6/(2)ASCII.c"
         "Session 6/(3)Correct.c"
-        OnClass/demo1.c
-        OnClass/demo2.c
-        OnClass/demo3.c
-        OnClass/demo4.c
-        OnClass/demo5.c
-        OnClass/demo6.c
+        OnClass/demo/demo1.c
+        OnClass/demo/demo2.c
+        OnClass/demo/demo3.c
+        OnClass/demo/demo4.c
+        OnClass/demo/demo5.c
+        OnClass/demo/demo6.c
         "Session 6/(4)exercise4-ss6.c"
         "Session 6/(5)lastfirst.c"
         "Session 7/leapyear.c"
@@ -58,9 +58,9 @@ add_executable(FPT_CandC_
         "Session 11/(1)namearr.c"
         "Session 11/(2)vowles.c"
         "Session 11/(3)arrreverse.c"
-        OnClass/demo7_1.c
-        OnClass/demo7_2.c
-        OnClass/demo7_3.c
+        OnClass/demo/demo7_1.c
+        OnClass/demo/demo7_2.c
+        OnClass/demo/demo7_3.c
         "Session 12/summatrix.c"
         "Session 12/Part2_12.c"
         "Session 12/(1)maxminarr.c"
@@ -85,4 +85,8 @@ add_executable(FPT_CandC_
         OnClass/ppt/ppt5.c
         OnClass/ppt/ppt6.c
         OnClass/ppt/ppt7.c
+        OnClass/Prac2/balance.c
+        OnClass/Prac2/coffee.c
+        OnClass/Prac2/guess.c
+        OnClass/Prac2/tbc.c
 )
