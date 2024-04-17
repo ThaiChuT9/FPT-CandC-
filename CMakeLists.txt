@@ -76,4 +76,13 @@ add_executable(FPT_CandC_
         OnClass/Prac/bai8.c
         OnClass/Prac/bai9.c
         OnClass/Prac/bai10.c
-        OnClass/Prac/bai11.c)
+        OnClass/Prac/bai11.c
+        "Session 13/(1)palindrome.c"
+        OnClass/ppt/ppt1.c
+        OnClass/ppt/ppt2.c
+        OnClass/ppt/ppt3.c
+        OnClass/ppt/ppt4.c
+        OnClass/ppt/ppt5.c
+        OnClass/ppt/ppt6.c
+        OnClass/ppt/ppt7.c
+)
