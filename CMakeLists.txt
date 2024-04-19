@@ -89,4 +89,11 @@ add_executable(FPT_CandC_
         OnClass/Prac2/coffee.c
         OnClass/Prac2/guess.c
         OnClass/Prac2/tbc.c
+        "Session 13/(2)names.c"
+        OnClass/Loop/bai1.c
+        OnClass/Loop/bai2.c
+        OnClass/Loop/bai3.c
+        OnClass/Loop/bai4.c
+        OnClass/Loop/bai5.c
+        OnClass/Loop/bai6.c
 )
