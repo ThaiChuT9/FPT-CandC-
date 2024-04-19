@@ -11,7 +11,7 @@ void mmainn(){
     char x[10][12];
     char temp[12];
     printf("Enter each string on a separate line \n\n");
-    printf("Type 'END' when over \n\n");
+    printf("Type 'END' or 'end' when over \n\n");
     do
     {
         printf("String %d: ", n+1);

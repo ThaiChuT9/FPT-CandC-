@@ -3,7 +3,8 @@
 //
 #include <stdio.h>
 #include <ctype.h>
-int main(){
+int babai6(){
+//int main(){
     int a;
     char c;
     do {

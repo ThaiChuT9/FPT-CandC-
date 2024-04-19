@@ -1,4 +1,4 @@
-﻿//
+﻿    //
 // Created by THAICHU on 4/12/2024.
 // Write a program to count the number of vowels in a line of text.
 #include <stdio.h>

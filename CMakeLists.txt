@@ -96,4 +96,7 @@ add_executable(FPT_CandC_
         OnClass/Loop/bai4.c
         OnClass/Loop/bai5.c
         OnClass/Loop/bai6.c
+        "Session 14/Part2_14.c"
+        "Session 14/(1)reversepointer.c"
+        "Session 14/(2)matixpointer.c"
 )
