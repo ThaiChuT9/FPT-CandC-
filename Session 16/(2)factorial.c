@@ -6,7 +6,8 @@ int factoriala(int n){
     if(n==0) return 1;
     return n*factoriala(n-1);
 }
-int main() {
+int facfac(){
+//int main() {
     int n;
     printf("Nhap n: ");
     scanf(" %d", &n);

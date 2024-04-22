@@ -103,4 +103,10 @@ add_executable(FPT_CandC_
         "Session 16/Part2_16.c"
         "Session 16/(1)acircle.c"
         "Session 16/(2)factorial.c"
+        OnClass/atoz.c
+        OnClass/array/bai1.c
+        OnClass/array/bai2.c
+        OnClass/array/bai3.c
+        OnClass/array/bai4.c
+        OnClass/array/bai5.c
 )
