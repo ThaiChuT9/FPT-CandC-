@@ -99,4 +99,8 @@ add_executable(FPT_CandC_
         "Session 14/Part2_14.c"
         "Session 14/(1)reversepointer.c"
         "Session 14/(2)matixpointer.c"
+        OnClass/sumarr.c
+        "Session 16/Part2_16.c"
+        "Session 16/(1)acircle.c"
+        "Session 16/(2)factorial.c"
 )

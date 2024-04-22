@@ -19,7 +19,8 @@ void result(int *c, int row, int col){
         printf("\n");
     }
 }
-int main(){
+int matrixpointer(){
+//int main(){
     int i,j,row,col;
     printf("Enter the number of rows: ");
     scanf("%d",&row);
