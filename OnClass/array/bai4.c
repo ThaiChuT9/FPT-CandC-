@@ -4,14 +4,15 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-int main(){
+int ranan(){
+//int main(){
     int n,arr1[20],arr2[20],matchFound=0;
     printf("Enter size of the array: ");
     scanf("%d",&n);
     srand(time(NULL));
     for (int i = 0; i < n; i++) {
-        printf("arr[%d] = ",i+1);
-        scanf("%d", &arr1[i]);
+        printf("arr[%d]= ",i+1);
+        scanf(" %d", &arr1[i]);
         arr2[i] = rand() %10 +1;
     }
     printf("Matching number: ");
