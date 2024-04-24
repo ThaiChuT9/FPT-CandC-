@@ -2,7 +2,8 @@
 // Created by THAICHU on 4/24/2024.
 //
 #include <stdio.h>
-int main(){
+int bababi8(){
+//int main(){
     float diem[5][6];
     for (int i = 0; i < 5; ++i) {
         printf("Nhap diem cua hoc sinh %d:\n ",i+1);
