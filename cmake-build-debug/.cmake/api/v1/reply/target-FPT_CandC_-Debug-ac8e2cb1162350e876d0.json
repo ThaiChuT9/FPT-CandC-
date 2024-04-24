@@ -157,7 +157,9 @@
 				102,
 				103,
 				104,
-				105
+				105,
+				106,
+				107
 			]
 		}
 	],
@@ -299,7 +301,9 @@
 				102,
 				103,
 				104,
-				105
+				105,
+				106,
+				107
 			]
 		}
 	],
@@ -939,6 +943,18 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "OnClass/array/bai6.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "OnClass/array/bai7.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "OnClass/array/bai8.c",
 			"sourceGroupIndex" : 0
 		}
 	],

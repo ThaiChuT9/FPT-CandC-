@@ -110,4 +110,6 @@ add_executable(FPT_CandC_
         OnClass/array/bai4.c
         OnClass/array/bai5.c
         OnClass/array/bai6.c
+        OnClass/array/bai7.c
+        OnClass/array/bai8.c
 )
