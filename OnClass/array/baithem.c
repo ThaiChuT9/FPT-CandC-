@@ -13,14 +13,22 @@ int isPrime1(int total){
     }
     return 1;
 }
-int babbitt(){
-//int main(){
+int isDuplicate(int a[], int total){
+    for (int i = 0; i < 20; i++) {
+        if (a[i] == total) {
+            return 1;
+        }
+    }
+    return 0;
+}
+//int babbitt(){
+int main(){
     srand(time(NULL));
     int total, a[20];
     printf("Cac so nguyen to la: \n");
     for (int i = 0; i < 20; i++) {
         total = rand() % 200 + 1;
-        if (isPrime1(total)) {
+        if (isPrime1(total) && !isDuplicate(a, total)) {
             a[i] = total;
             printf("%d ", a[i]);
         } else {
