@@ -5,7 +5,7 @@
 
 int square1(int n) {
     for (int i = 0; i < n; ++i) {
-        printf("*");
+        printf("* ");
     }
     printf("\n");
     return 0;
@@ -20,8 +20,9 @@ int triangle1(int n) {
     }
     return 0;
 }
-
-int main() {
+int stst()
+//int main()
+{
     int n;
     printf("Nhap n: ");
     scanf("%d", &n);

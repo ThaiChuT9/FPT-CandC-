@@ -1,7 +1,7 @@
 # ninja log v5
 353	453	7350473360060111	CMakeFiles/FPT_CandC_.dir/Session_9/(5)stars.c.obj	a72037efcea379bd
 113	306	7350473358518175	CMakeFiles/FPT_CandC_.dir/Session_6/Example2.c.obj	4c375dc1918f2cc4
-2	180	7357966738485614	build.ninja	e37785e8c900e030
+2	180	7357998534916452	build.ninja	e37785e8c900e030
 597	696	7350473362477515	CMakeFiles/FPT_CandC_.dir/OnClass/Prac/bai6.c.obj	764cd5db884af359
 360	460	7350473360129746	CMakeFiles/FPT_CandC_.dir/Session_10/example1.c.obj	d5d03b7fffe9b13e
 5	113	7350473356423546	CMakeFiles/FPT_CandC_.dir/Session1/vidu0/sum.c.obj	61fb3a04a6c531dc
@@ -9,7 +9,7 @@
 389	527	7350473360787839	CMakeFiles/FPT_CandC_.dir/Session_10/(2)morepatenrt.c.obj	69dc8b3368dbfbf
 403	491	7350473360445043	CMakeFiles/FPT_CandC_.dir/Session_11/example4.c.obj	91c978ebbb396257
 9	117	7350473356493355	CMakeFiles/FPT_CandC_.dir/Session1/vidu0/sumy.c.obj	7dceb12e6e2f1abd
-68	171	7357452749276244	FPT_CandC_.exe	c9071288c49fe43d
+136	422	7357974965945495	FPT_CandC_.exe	9099c437065f7696
 21	126	7350473356663706	CMakeFiles/FPT_CandC_.dir/Session_4/(3)rectangle.c.obj	e125f136a8d48da4
 296	397	7350473359488544	CMakeFiles/FPT_CandC_.dir/Session_8/(3)values.c.obj	19c084924f9b8dba
 36	139	7350473356778124	CMakeFiles/FPT_CandC_.dir/Session_5/Precedence.c.obj	2f1a1776af0458a3
@@ -109,14 +109,10 @@
 9	128	7354721833065967	CMakeFiles/FPT_CandC_.dir/OnClass/array/bai4.c.obj	18c4f3c44bccf1e4
 35	345	7356242505170289	CMakeFiles/FPT_CandC_.dir/OnClass/array/bai6.c.obj	6b8b2ec865ec0eee
 14	173	7356261183883058	CMakeFiles/FPT_CandC_.dir/OnClass/array/bai7.c.obj	7fca7bdd709ab480
-6	68	7357452748282433	CMakeFiles/FPT_CandC_.dir/OnClass/array/baithem.c.obj	6a4f883cdc81d5a0
-26	276	7357967551137043	CMakeFiles/FPT_CandC_.dir/OnClass/stst.c.obj	292ae573e642a75e
 15	327	7357967551520984	CMakeFiles/FPT_CandC_.dir/OnClass/array/baithem.c.obj	6a4f883cdc81d5a0
-19	127	7357967687108108	CMakeFiles/FPT_CandC_.dir/OnClass/stst.c.obj	292ae573e642a75e
-127	358	7357967689050153	FPT_CandC_.exe	9099c437065f7696
-10	115	7357967808715401	CMakeFiles/FPT_CandC_.dir/OnClass/stst.c.obj	292ae573e642a75e
-115	420	7357967811506176	FPT_CandC_.exe	9099c437065f7696
-9	192	7357969044088283	CMakeFiles/FPT_CandC_.dir/OnClass/stst.c.obj	292ae573e642a75e
-192	642	7357969048547743	FPT_CandC_.exe	9099c437065f7696
-39	145	7357969243446706	CMakeFiles/FPT_CandC_.dir/OnClass/stst.c.obj	292ae573e642a75e
-146	414	7357969246003538	FPT_CandC_.exe	9099c437065f7696
+11	136	7357974963146355	CMakeFiles/FPT_CandC_.dir/OnClass/stst.c.obj	292ae573e642a75e
+14	145	7358000040175839	CMakeFiles/FPT_CandC_.dir/OnClass/stst.c.obj	292ae573e642a75e
+26	153	7358000040251022	CMakeFiles/FPT_CandC_.dir/OnClass/caca.c.obj	c8c763d80657a398
+153	516	7358000043795069	FPT_CandC_.exe	feda43d5edd55c33
+13	119	7358000815933139	CMakeFiles/FPT_CandC_.dir/OnClass/caca.c.obj	c8c763d80657a398
+120	361	7358000818223724	FPT_CandC_.exe	feda43d5edd55c33

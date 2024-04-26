@@ -114,4 +114,5 @@ add_executable(FPT_CandC_
         OnClass/array/bai8.c
         OnClass/array/baithem.c
         OnClass/stst.c
+        OnClass/caca.c
 )
