@@ -115,4 +115,6 @@ add_executable(FPT_CandC_
         OnClass/array/baithem.c
         OnClass/stst.c
         OnClass/caca.c
+        OnClass/Func/gradee.c
+        OnClass/Func/menucoff.c
 )

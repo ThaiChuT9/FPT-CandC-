@@ -162,7 +162,9 @@
 				107,
 				108,
 				109,
-				110
+				110,
+				111,
+				112
 			]
 		}
 	],
@@ -309,7 +311,9 @@
 				107,
 				108,
 				109,
-				110
+				110,
+				111,
+				112
 			]
 		}
 	],
@@ -979,6 +983,18 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "OnClass/caca.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "OnClass/Func/gradee.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "OnClass/Func/menucoff.c",
 			"sourceGroupIndex" : 0
 		}
 	],
