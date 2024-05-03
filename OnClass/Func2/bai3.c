@@ -10,7 +10,8 @@ void boi50(int num1, int num2){
     }
 }
 void boi50(int num1, int num2);
-int main(){
+int bbb3(){
+//int main(){
     int num1, num2;
     printf("Nhap so thu 1: ");
     scanf("%d", &num1);
