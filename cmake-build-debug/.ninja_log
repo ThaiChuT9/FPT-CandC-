@@ -1,7 +1,7 @@
 # ninja log v5
 353	453	7350473360060111	CMakeFiles/FPT_CandC_.dir/Session_9/(5)stars.c.obj	a72037efcea379bd
 113	306	7350473358518175	CMakeFiles/FPT_CandC_.dir/Session_6/Example2.c.obj	4c375dc1918f2cc4
-2	180	7358056959497565	build.ninja	e37785e8c900e030
+2	180	7364080091477673	build.ninja	e37785e8c900e030
 597	696	7350473362477515	CMakeFiles/FPT_CandC_.dir/OnClass/Prac/bai6.c.obj	764cd5db884af359
 360	460	7350473360129746	CMakeFiles/FPT_CandC_.dir/Session_10/example1.c.obj	d5d03b7fffe9b13e
 5	113	7350473356423546	CMakeFiles/FPT_CandC_.dir/Session1/vidu0/sum.c.obj	61fb3a04a6c531dc
@@ -9,7 +9,7 @@
 389	527	7350473360787839	CMakeFiles/FPT_CandC_.dir/Session_10/(2)morepatenrt.c.obj	69dc8b3368dbfbf
 403	491	7350473360445043	CMakeFiles/FPT_CandC_.dir/Session_11/example4.c.obj	91c978ebbb396257
 9	117	7350473356493355	CMakeFiles/FPT_CandC_.dir/Session1/vidu0/sumy.c.obj	7dceb12e6e2f1abd
-68	187	7358056502145722	FPT_CandC_.exe	a7b81886c8f91a46
+147	448	7364072589969966	FPT_CandC_.exe	75ab281597583b9f
 21	126	7350473356663706	CMakeFiles/FPT_CandC_.dir/Session_4/(3)rectangle.c.obj	e125f136a8d48da4
 296	397	7350473359488544	CMakeFiles/FPT_CandC_.dir/Session_8/(3)values.c.obj	19c084924f9b8dba
 36	139	7350473356778124	CMakeFiles/FPT_CandC_.dir/Session_5/Precedence.c.obj	2f1a1776af0458a3
@@ -112,15 +112,17 @@
 15	327	7357967551520984	CMakeFiles/FPT_CandC_.dir/OnClass/array/baithem.c.obj	6a4f883cdc81d5a0
 14	145	7358000040175839	CMakeFiles/FPT_CandC_.dir/OnClass/stst.c.obj	292ae573e642a75e
 6	68	7358056500997558	CMakeFiles/FPT_CandC_.dir/OnClass/caca.c.obj	c8c763d80657a398
-10	68	7358056500997558	CMakeFiles/FPT_CandC_.dir/OnClass/Func/gradee.c.obj	759058faec551823
 5	57	7358063634115456	CMakeFiles/FPT_CandC_.dir/OnClass/Func/gradee.c.obj	759058faec551823
-9	72	7358063634268261	CMakeFiles/FPT_CandC_.dir/OnClass/Func/menucoff.c.obj	cd170d8ce27a18c7
-72	180	7358063635303260	FPT_CandC_.exe	ef6b2046e46e3e
-5	58	7358064711707590	CMakeFiles/FPT_CandC_.dir/OnClass/Func/menucoff.c.obj	cd170d8ce27a18c7
-58	155	7358064712640155	FPT_CandC_.exe	ef6b2046e46e3e
-4	60	7358065194295074	CMakeFiles/FPT_CandC_.dir/OnClass/Func/menucoff.c.obj	cd170d8ce27a18c7
-60	160	7358065195251264	FPT_CandC_.exe	ef6b2046e46e3e
-5	62	7358067452749814	CMakeFiles/FPT_CandC_.dir/OnClass/Func/menucoff.c.obj	cd170d8ce27a18c7
-62	182	7358067453900550	FPT_CandC_.exe	ef6b2046e46e3e
-4	57	7358069163616124	CMakeFiles/FPT_CandC_.dir/OnClass/Func/menucoff.c.obj	cd170d8ce27a18c7
-58	159	7358069164576498	FPT_CandC_.exe	ef6b2046e46e3e
+23	277	7364056054658602	CMakeFiles/FPT_CandC_.dir/OnClass/Func/menucoff.c.obj	cd170d8ce27a18c7
+36	162	7364056053527367	CMakeFiles/FPT_CandC_.dir/Fnc/bb1.c.obj	8baa62d433412b7
+14	143	7364072586981438	CMakeFiles/FPT_CandC_.dir/OnClass/Func2/bai1.c.obj	9e1ea9c0429811b3
+20	147	7364072587034447	CMakeFiles/FPT_CandC_.dir/OnClass/Func2/bai2.c.obj	3cf19e63ea1ddf03
+5	61	7364088465989638	CMakeFiles/FPT_CandC_.dir/OnClass/Func2/bai2.c.obj	3cf19e63ea1ddf03
+8	69	7364088466061482	CMakeFiles/FPT_CandC_.dir/OnClass/Func2/bai3.c.obj	6d5dd43b19da4e62
+69	186	7364088467176950	FPT_CandC_.exe	2a1731115ef9bda8
+5	57	7364088890375419	CMakeFiles/FPT_CandC_.dir/OnClass/Func2/bai3.c.obj	6d5dd43b19da4e62
+57	155	7364088891332853	FPT_CandC_.exe	2a1731115ef9bda8
+6	55	7364089220808130	CMakeFiles/FPT_CandC_.dir/OnClass/Func2/bai3.c.obj	6d5dd43b19da4e62
+56	157	7364089221789647	FPT_CandC_.exe	2a1731115ef9bda8
+5	54	7364089408073941	CMakeFiles/FPT_CandC_.dir/OnClass/Func2/bai3.c.obj	6d5dd43b19da4e62
+54	150	7364089408992863	FPT_CandC_.exe	2a1731115ef9bda8

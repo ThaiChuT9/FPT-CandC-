@@ -117,4 +117,8 @@ add_executable(FPT_CandC_
         OnClass/caca.c
         OnClass/Func/gradee.c
         OnClass/Func/menucoff.c
+        Fnc/bb1.c
+        OnClass/Func2/bai1.c
+        OnClass/Func2/bai2.c
+        OnClass/Func2/bai3.c
 )
