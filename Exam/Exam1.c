@@ -3,12 +3,12 @@
 //
 
 #include <stdio.h>
-
+#include <limits.h>
 int isMin(int arr[], int n) {
-    int min = arr[0];
+    int min = INT_MAX;
     int i;
     for (i = 1; i < n; i++) {
-        if (arr[i] < min) {
+        if (arr[i] > 0 && arr[i] < min) {
             min = arr[i];
         }
     }
@@ -22,9 +22,14 @@ int exam1(){
     scanf("%d", &n);
     printf("Nhap gia tri cho mang:\n");
     for (int i = 0; i < n; i++) {
-        printf("arr[%d] = ", i + 1);
+        printf("arr[%d] = ", i);
         scanf("%d", &arr[i]);
     }
-    printf("\nGia tri nho nhat trong mang la: %d", isMin(arr, n));
+    int min = isMin(arr, n);
+    if (min != INT_MAX) {
+        printf("Gia tri nho nhat trong mang la: %d\n", min);
+    } else {
+        printf("Khong co gia tri nho nhat trong mang.\n");
+    }
     return 0;
 }
