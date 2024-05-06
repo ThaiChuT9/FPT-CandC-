@@ -122,4 +122,6 @@ add_executable(FPT_CandC_
         OnClass/Func2/bai2.c
         OnClass/Func2/bai3.c
         OnClass/Func2/bai4.c
+        Exam/Exam1.c
+        Exam/Exam2.c
 )

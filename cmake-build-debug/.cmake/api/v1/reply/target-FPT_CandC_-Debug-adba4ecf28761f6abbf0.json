@@ -169,7 +169,9 @@
 				114,
 				115,
 				116,
-				117
+				117,
+				118,
+				119
 			]
 		}
 	],
@@ -323,7 +325,9 @@
 				114,
 				115,
 				116,
-				117
+				117,
+				118,
+				119
 			]
 		}
 	],
@@ -1035,6 +1039,18 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "OnClass/Func2/bai4.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Exam/Exam1.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Exam/Exam2.c",
 			"sourceGroupIndex" : 0
 		}
 	],

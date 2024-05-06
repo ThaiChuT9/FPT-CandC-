@@ -22,7 +22,8 @@ int findMax(int arr[], int n)
             max = arr[i];
     return max;
 }
-int main(){
+int bbb4(){
+//int main(){
     int arr[100];
     int n;
     printf("Ban muon bao nhieu so: ");
