@@ -8,10 +8,10 @@ float crystalTienDien(int sokWh){
         tienDien = sokWh * 500;
     }
     else if(sokWh > 50 && sokWh <= 100){
-        tienDien = sokWh  * 700;
+        tienDien = 50 * 500 + (sokWh - 50) * 700;
     }
     else if(sokWh > 100){
-        tienDien = sokWh  * 900;
+        tienDien = 50 * 500 + 50 * 700 + (sokWh - 100) * 900;
     }
     return tienDien;
 }
@@ -20,8 +20,8 @@ void cases(int sokWh){
     printf("\nGia tien cho 80kWh la: %.2f VND", crystalTienDien(80));
     printf("\nGia tien cho 120kWh la: %.2f VND", crystalTienDien(120));
 }
-int exam2(){
-//int main() {
+//int exam2(){
+int main() {
     int sokWh;
     printf("Nhap so kWh: ");
     scanf("%d", &sokWh);
